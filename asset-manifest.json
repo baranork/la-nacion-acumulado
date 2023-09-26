@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/la-nacion-acumulado/static/css/main.ae66aad2.css",
+    "main.js": "/la-nacion-acumulado/static/js/main.adbdb282.js",
+    "index.html": "/la-nacion-acumulado/index.html",
+    "main.ae66aad2.css.map": "/la-nacion-acumulado/static/css/main.ae66aad2.css.map",
+    "main.adbdb282.js.map": "/la-nacion-acumulado/static/js/main.adbdb282.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae66aad2.css",
+    "static/js/main.adbdb282.js"
+  ]
+}
