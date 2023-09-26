@@ -1,0 +1,17 @@
+.image {
+  display: flex;
+  position: absolute;
+  max-width:100%;
+  top: 0;
+  -webkit-filter: brightness(100%);
+          filter: brightness(100%);
+  -webkit-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+}
+
+.image:hover{
+  -webkit-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+  -webkit-filter: brightness(110%);
+          filter: brightness(110%);
+}
