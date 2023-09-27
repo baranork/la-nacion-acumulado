@@ -28,7 +28,7 @@ const Home = (props) => {
     <div className="row-gap-tablet-2 row-gap-deskxl-3 hlp-degrade">
       {articlesList ? articlesList.map(article => {
         return (
-          <Article article={article}></Article>
+          <Article title={article.headlines.basic} date={article.display_date} imageUrl={article.promo_items.basic.url}></Article>
         )
       })
         :
